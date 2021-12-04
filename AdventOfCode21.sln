@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01_Sonar_Sweep", "01_Sonar_
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02_Dive", "02_Dive\02_Dive.csproj", "{A6917E6F-7215-4E3B-AF9F-ADF28C57BC1F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_Binary_Diagnostic", "03_Binary_Diagnostic\03_Binary_Diagnostic.csproj", "{F8DCE70F-CF28-464F-9DED-A329D65DAC8E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03_Binary_Diagnostic", "03_Binary_Diagnostic\03_Binary_Diagnostic.csproj", "{F8DCE70F-CF28-464F-9DED-A329D65DAC8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_Giant_Squid", "04_Giant_Squid\04_Giant_Squid.csproj", "{16158F04-4FCD-48B7-9B9A-96A62801E0AA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{F8DCE70F-CF28-464F-9DED-A329D65DAC8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F8DCE70F-CF28-464F-9DED-A329D65DAC8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F8DCE70F-CF28-464F-9DED-A329D65DAC8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16158F04-4FCD-48B7-9B9A-96A62801E0AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16158F04-4FCD-48B7-9B9A-96A62801E0AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16158F04-4FCD-48B7-9B9A-96A62801E0AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16158F04-4FCD-48B7-9B9A-96A62801E0AA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
